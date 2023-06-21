@@ -15,7 +15,13 @@ public class Ejercicio1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int [] arreglo= {1,2,3,4};
+        int[][] matriz = {{1, 2, 3}, {4, 5, 6}};
+        
+         Arreglo.sumarLista(arreglo);
+         System.out.println(Arreglo.buscarMayor(matriz));
+          System.out.println(Arreglo.cuentaVocales("aeiou"));
+         System.out.println(Arreglo.cuentaCaracter("aeioueaea",'e'));
     }
     
 }
