@@ -27,11 +27,17 @@
   
 - ### **Ejercicio 5**
 
-     En un nuevo proyecto, en el método main de su clase principal, se pide realice un algoritmo que compruebe si una matriz dada es anti simétrica. Se dice que una matriz **A** es anti simétrica cuando ésta es igual a su propia traspuesta, pero cambiada de signo. Es decir, **A** es anti simétrica si **A = -AT**. La matriz traspuesta de una matriz **A** se denota por **AT** y se obtiene cambiando sus filas por columnas (o viceversa).
+     En un nuevo proyecto, en el método main de su clase principal, se pide realice un algoritmo que compruebe si una matriz dada es anti simétrica. Se dice que una matriz **A** es anti simétrica cuando ésta es igual a su propia traspuesta, pero cambiada de signo. Es decir, **A** es anti simétrica si **A = -AT**.
+     La matriz traspuesta de una matriz **A** se denota por **AT** y se obtiene cambiando sus filas por columnas (o viceversa).
+
+     <img src="./imagenes/matriz_anti-simetrica.png" alt="Logo de mi proyecto" width="400" height="auto">
 
 - ### **Ejercicio 6**
 
      Un cuadrado mágico 3 x 3 es una matriz 3 x 3 formada por números del 1 al 9 donde la suma de sus filas, sus columnas y sus diagonales son idénticas. Crear un programa que permita introducir un cuadrado por teclado y determine si este cuadrado es mágico o no. El programa deberá comprobar que los números introducidos son correctos, es decir, están entre el 1 y el 9.
+
+     <img src="./imagenes/cuadrado_magico.png" alt="Logo de mi proyecto" width="200" height="auto">
+
      Modele e implemente las clases Java con los métodos necesarios para poder resolver este problema. Luego realice las pruebas necesarias desde el método main de la clase principal del proyecto.
 
 - ### **Ejercicio 7**
