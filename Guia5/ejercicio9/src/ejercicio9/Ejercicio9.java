@@ -18,7 +18,7 @@ public class Ejercicio9 {
         while (true) {
             System.out.println("Crear una nueva película? (s/n)");
             String respuesta = scanner.nextLine();
-            if (respuesta.toLowerCase() != "s") {
+            if (!respuesta.equalsIgnoreCase("s")) {
                 break;
             }
 
