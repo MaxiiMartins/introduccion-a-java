@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author defaultuser0
  */
 public class DivisionNumero {
-    public static void main(String[] args) {
+    public static void main() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Ingrese el primer número: ");

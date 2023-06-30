@@ -16,7 +16,7 @@ public class Ejercicio4 {
      */
     public static void main(String[] args) {
 
-        DivisionNumero.main(args);
+        DivisionNumero.main();
     }
     
 }
